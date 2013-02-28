@@ -1,0 +1,4 @@
+testCalssTris
+=============
+
+Test class actions
